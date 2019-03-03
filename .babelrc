@@ -1,0 +1,10 @@
+{
+  "presets": ["@babel/preset-env"],
+  "ignore": [
+  	"data",
+  	"node_modules",
+  	".babelrc",
+  	"package.json",
+  	"npm-debug.log"
+  ]
+}
